@@ -1,7 +1,8 @@
 > _Fork_ deze deeltaak en ga aan de slag. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# schets-je-ontwikkeling
+- [link naar wiki](https://github.com/driezie/schets-je-ontwikkeling/wiki)
 
 ## Licentie
 
